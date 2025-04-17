@@ -6,9 +6,9 @@ L'ensemble de la démarche est disponible ici : https://erasme.org/Autosolistes-
 
 Ce repo héberge l'ensemble des fichiers constitutifs du prototype en 3 parties, pour questionner notre rapport à la voiture individuelle :
   - Un outil de diagnostic de notre dépendance à la voiture individuelle :
-    - A4 diagramme papier à compléter, selon 8 facteurs psycho-sociaux :
+    - A4 diagramme papier à compléter, selon 8 facteurs psycho-sociaux : Diagramme dépendance - 8 facteurs psychosociaux.pdf
   - Un jeu spéculatif sur des avenirs fictionnels pour déconstruire nos imaginaire
-    - Plans de fabrication de l’objet (découpe laser) :
+    - Plans de fabrication de l’objet (découpe laser) : 
     - Impressions des tuiles (recto et verso) :
   - Un kit de médiation pour faciliter l’échange sur nos façons de nous déplacer.
     - Fichiers 3D :
