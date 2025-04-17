@@ -10,6 +10,6 @@ Ce repo héberge l'ensemble des fichiers constitutifs du prototype en 3 parties,
   - Un jeu spéculatif sur des avenirs fictionnels pour déconstruire nos imaginaire
     - Plans de fabrication de l’objet (découpe laser) :
     - Impressions des tuiles (recto et verso) :
-  Un kit de médiation pour faciliter l’échange sur nos façons de nous déplacer.
+  - Un kit de médiation pour faciliter l’échange sur nos façons de nous déplacer.
     - Fichiers 3D :
     - Fichiers impressions des cartes : 
